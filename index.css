@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    
+}
+
+
+#footer {
+
+display: flex;
+height: 30px;
+
+}
+
